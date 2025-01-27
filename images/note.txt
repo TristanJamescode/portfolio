@@ -1,3 +1,0 @@
-these are placeholders, just testing out for layout and size preportions.
-
-<a href="index.html"><img src="images/sample8.jpg"></a>    <! -- Logo-->
